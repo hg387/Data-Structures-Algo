@@ -1,0 +1,41 @@
+nsertion Head standard list:1.5420000000071488e-06
+
+Insertion Head arraylist:1.02800000000014e-06
+
+Insertion Head pointerlist:5.140000000070089e-07
+
+Insertion Tail standard list: 1.02800000000014e-06
+
+Insertion Tail arraylist: 3.083999999986542e-06
+
+Insertion Tail Pointerlist: 1.02800000000014e-06
+
+Transversal standard list: 5.139999999931311e-07
+
+Transverse arraylist: 5.139999999931311e-07
+
+Transverse Pointerlist: 5.139999999931311e-07
+
+Delete head standard list: 5.140000000070089e-07
+
+Delete head arraylist: 1.02800000000014e-06
+
+Delete head Pointerlist: 1.02800000000014e-06
+
+Delete tail standard list: 5.140000000070089e-07
+
+Delete tail arraylist: 1.0289999999996136e-06
+
+Delete head Pointerlist: 1.02800000000014e-06
+
+Push arraystack: 1.5420000000071488e-06
+
+Push arraystack: 1.02800000000014e-06
+
+Push pointerstack: 1.02800000000014e-06
+
+Pop standard list: 1.02800000000014e-06
+
+Pop arraylist: 5.139999999931311e-07
+
+Pop Pointerlist: 5.140000000070089e-07
