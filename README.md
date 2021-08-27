@@ -1,0 +1,1 @@
+Just some basic implementation of Arraylist and Trees Structure. These implementations are done for purpose to understand different implementations of same data structures.
